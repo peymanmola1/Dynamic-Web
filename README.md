@@ -15,6 +15,4 @@
 
 ## Thimble
 
-## Formative
-
 ## Summative
